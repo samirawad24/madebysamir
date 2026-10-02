@@ -269,7 +269,7 @@
     pv.title.textContent = biz || "Your business";
     const n = needs();
     pv.kicker.textContent = n.length ? n.join(", ") : "Your services go here";
-    pv.sub.textContent = name ? `Made by Samir, for ${name}` : "Made by Samir";
+    pv.sub.textContent = name ? `Made by Awad, for ${name}` : "Made by Awad";
   };
   ["input", "change"].forEach((ev) => form.addEventListener(ev, updatePreview));
 
@@ -322,7 +322,7 @@
       _captcha: "false",
     };
     try {
-      const res = await fetch("https://formsubmit.co/ajax/samirawad24@gmail.com", {
+      const res = await fetch("https://formsubmit.co/ajax/samir@madebyawad.com", {
         method: "POST",
         headers: { "Content-Type": "application/json", Accept: "application/json" },
         body: JSON.stringify(payload),
@@ -330,7 +330,7 @@
       const data = await res.json().catch(() => ({}));
       if (!res.ok || String(data.success) !== "true") throw new Error(data.message || "Send failed");
       const first = payload.name.split(" ")[0];
-      status.textContent = `Thanks, ${first}. I got your details and will reply from samirawad24@gmail.com.`;
+      status.textContent = `Thanks, ${first}. I got your details and will reply from samir@madebyawad.com.`;
       pv.title.textContent = `Talk soon, ${first}.`;
       pv.live.style.opacity = "1";
       pv.frame.classList.add("is-live");
@@ -338,7 +338,7 @@
       form.reset();
     } catch (err) {
       status.classList.add("is-error");
-      status.innerHTML = 'Something went wrong and your message didn\'t send. Please email me at <a href="mailto:samirawad24@gmail.com">samirawad24@gmail.com</a> instead.';
+      status.innerHTML = 'Something went wrong and your message didn\'t send. Please email me at <a href="mailto:samir@madebyawad.com">samir@madebyawad.com</a> instead.';
       submitBtn.disabled = false;
       label.textContent = "Try again";
     }
@@ -358,7 +358,7 @@
   };
   // Show the intro once per visit; later page loads skip straight in
   let seen = false;
-  try { seen = sessionStorage.getItem("mbs-intro") === "1"; sessionStorage.setItem("mbs-intro", "1"); } catch (e) { /* storage blocked */ }
+  try { seen = sessionStorage.getItem("mba-intro") === "1"; sessionStorage.setItem("mba-intro", "1"); } catch (e) { /* storage blocked */ }
   if (reduce || seen || location.hash) {
     finishIntro();
   } else {
