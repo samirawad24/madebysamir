@@ -954,8 +954,9 @@ svg { width: 1em; height: 1em; }
 .svc-shots { display: grid; grid-template-columns: repeat(3, 1fr); gap: clamp(16px, 2vw, 28px); margin-top: clamp(32px, 5vw, 56px); }
 .shot { display: block; text-decoration: none; }
 .shot-frame { aspect-ratio: 16 / 10; overflow: hidden; border-radius: 14px; border: 1px solid var(--line); background: #fff; }
-.shot-frame img { width: 100%; height: 100%; object-fit: cover; object-position: top; transition: transform 1.2s var(--ease); }
-.shot:hover .shot-frame img { transform: scale(1.03); }
+.shot-frame img { width: 100%; height: auto; will-change: transform; }
+.shot-frame { transition: border-color .4s var(--ease); }
+.shot:hover .shot-frame { border-color: var(--line-2); }
 .shot h3 { margin-top: 16px; font-size: 20px; font-weight: 700; letter-spacing: -.02em; }
 .shot p { margin-top: 4px; max-width: 40ch; font-size: 15.5px; color: var(--muted); }
 .svc-steps { display: grid; grid-template-columns: repeat(5, 1fr); gap: clamp(16px, 2.4vw, 36px); margin-top: clamp(32px, 5vw, 56px); padding: 0; list-style: none; }
