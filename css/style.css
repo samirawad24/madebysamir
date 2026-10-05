@@ -980,3 +980,4 @@ svg { width: 1em; height: 1em; }
   .svc-steps { gap: 0; }
   .svc-steps li { padding: 18px 0 22px; }
 }
+.svc-shots.one { grid-template-columns: minmax(0, 620px); }
