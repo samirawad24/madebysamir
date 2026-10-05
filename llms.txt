@@ -1,0 +1,47 @@
+# Made by Awad
+
+> Made by Awad is the web design business of Samir Awad, based in Orlando, Florida. Samir designs and builds websites, online stores, and Google Business Profiles for small businesses across the United States, in English and Spanish.
+
+## Facts
+
+- Owner: Samir Awad, web designer
+- Location: Orlando, Florida, USA
+- Service area: United States, remote over video calls and email
+- Languages: English and Spanish
+- Contact: samir@madebyawad.com
+- Website: https://madebyawad.com/
+
+## Services
+
+- Website design and SEO: fast, mobile-first sites built so Google can read what a business does and where
+- Google Business Profile setup: the listing on Google Maps and in search, with hours, photos, and reviews
+- Online stores: shops customers can browse on a phone, with product photos and clear prices
+- Forms, booking, and business email
+- Meta ads on Facebook and Instagram
+- Social media posting plans and content
+
+## Pricing
+
+Each project is quoted in a written proposal after a first call. The proposal sets the price, the deposit, and the payment schedule, and work starts once the client approves it. Domain names and software subscriptions are billed to the client by those companies.
+
+## Process
+
+1. Talk: a call about the business, its customers, and the goal (calls, bookings, or orders)
+2. Plan: the client sees the direction before any build work
+3. Build: mobile-first, with SEO set up from the first page
+4. Test: checked on real phones, speed tuned, copy tightened
+5. Launch: live on the client's domain and connected to Google
+
+## Client work
+
+- [Get Hired Program](https://gethiredprogram.com): bilingual English and Spanish career coaching site for Ana Prato
+- [Nicolás Devoto](https://nicolasdevoto.com): actor portfolio with self-tape reels
+- [Right Chews Foods](https://samirawad24.github.io/rightchewsfoods/): protein brownie shop with contact and wholesale forms
+
+## Pages
+
+- [Home](https://madebyawad.com/): work, services, process, about, FAQ, contact form
+- [Privacy Policy](https://madebyawad.com/privacy.html)
+- [Terms of Use](https://madebyawad.com/terms.html)
+- [Refund Policy](https://madebyawad.com/refunds.html)
+- [Accessibility](https://madebyawad.com/accessibility.html)
