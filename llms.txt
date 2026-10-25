@@ -16,7 +16,7 @@
 - Website design and SEO: fast, mobile-first sites built so Google can read what a business does and where
 - Google Business Profile setup: the listing on Google Maps and in search, with hours, photos, and reviews
 - Online stores: shops customers can browse on a phone, with product photos and clear prices
-- Forms, booking, and business email
+- CRMs and business systems for any kind of business: lead and customer tracking, follow-up reminders, booking, automatic texts and emails, sales dashboards, plus forms and business email
 - Meta ads on Facebook and Instagram
 - Social media posting plans and content
 
