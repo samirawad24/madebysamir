@@ -36,7 +36,7 @@ Each project is quoted in a written proposal after a first call. The proposal se
 
 - [Get Hired Program](https://gethiredprogram.com): bilingual English and Spanish career coaching site for Ana Prato
 - [Nicolás Devoto](https://nicolasdevoto.com): actor portfolio with self-tape reels
-- [Right Chews Foods](https://samirawad24.github.io/rightchewsfoods/): protein brownie shop with contact and wholesale forms
+- [Right Chews Foods](https://rightchewsfoods.com/): protein brownie shop with online checkout and a wholesale form
 
 ## Pages
 
